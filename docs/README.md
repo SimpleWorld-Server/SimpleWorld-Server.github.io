@@ -13,7 +13,7 @@ config:
         -
           theme: brand
           text: 查看Wiki →
-          link: /
+          link: /notes/desc/
         - text: 加入我们
           link: /notes/join/
           theme: alt

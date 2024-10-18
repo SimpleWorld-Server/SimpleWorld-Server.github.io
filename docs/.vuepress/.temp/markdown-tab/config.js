@@ -1,6 +1,6 @@
-import { CodeTabs } from "C:/Users/YXY-HS/Desktop/wiki/vuepress-starter/node_modules/@vuepress/plugin-markdown-tab/lib/client/components/CodeTabs.js";
-import { Tabs } from "C:/Users/YXY-HS/Desktop/wiki/vuepress-starter/node_modules/@vuepress/plugin-markdown-tab/lib/client/components/Tabs.js";
-import "C:/Users/YXY-HS/Desktop/wiki/vuepress-starter/node_modules/@vuepress/plugin-markdown-tab/lib/client/styles/vars.css";
+import { CodeTabs } from "C:/Users/14488/Desktop/simple-world-wiki/simple-world-wiki/node_modules/@vuepress/plugin-markdown-tab/lib/client/components/CodeTabs.js";
+import { Tabs } from "C:/Users/14488/Desktop/simple-world-wiki/simple-world-wiki/node_modules/@vuepress/plugin-markdown-tab/lib/client/components/Tabs.js";
+import "C:/Users/14488/Desktop/simple-world-wiki/simple-world-wiki/node_modules/@vuepress/plugin-markdown-tab/lib/client/styles/vars.css";
 
 export default {
   enhance: ({ app }) => {

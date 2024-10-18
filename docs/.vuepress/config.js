@@ -10,12 +10,12 @@ export default defineUserConfig({
   title: 'SimpleWorld',
   theme: plumeTheme({
     // more...
-    logo: 'logo.jpg',
+    logo: 'https://pic.imgdb.cn/item/67125cb1d29ded1a8cea11ce.jpg',
     autoFrontmatter: false,
     profile: {
       name: 'Simple World',
       description: '简单世界-社会模拟',
-      avatar: 'logo.jpg',
+      avatar: 'https://pic.imgdb.cn/item/67125cb1d29ded1a8cea11ce.jpg',
       location: 'China',
       organization: 'SW',
       circle: true, // 是否为圆形头像

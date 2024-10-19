@@ -55,6 +55,9 @@ permalink: /notes/house/
 
 小屋自觉维护，**遭到玩家自主破坏5天后**，服务器维护人员才重新投入
 
+<img src="/images/house.png" alt="skull">
+
+
 
 ## 消失规则
 

@@ -117,6 +117,7 @@
 <p><strong>玩家需提前建造只有一个出入口的封闭小屋（材质不限），需要确保外人无法进入</strong></p>
 <p><strong>非本城镇居民，盟友算作外人</strong></p>
 <p>小屋自觉维护，<strong>遭到玩家自主破坏5天后</strong>，服务器维护人员才重新投入</p>
+<img src="/images/house.png" alt="skull">
 <h2 id="消失规则" tabindex="-1"><a class="header-anchor" href="#消失规则"><span>消失规则</span></a></h2>
 <p>因存在城镇、国家倒闭机制，当居民流失一周后，SW服务器将收回小屋。</p>
 <h2 id="惩罚机制" tabindex="-1"><a class="header-anchor" href="#惩罚机制"><span>惩罚机制</span></a></h2>

@@ -13,6 +13,9 @@ SW币的产出渠道为：服务器收购基础的物料（目前为粗金，兑
 
 可通过发展城镇人数来达到服务器投放SW银行来低价获得SW货币。
 
+<img src="/images/buy.png" alt="buy">
+
+
 ## 经济系统
 
 服务器的**物品经济完全靠玩家之间交易流通**，仅提供基础的物料收购商店，无其余收购商店。
@@ -31,20 +34,25 @@ SW币的产出渠道为：服务器收购基础的物料（目前为粗金，兑
 
 在地图中显示 /dynmap show
 
+<img src="/images/map.png" alt="map">
+
 ## 在线奖励
 
 每小时30SW币，每天上限500SW币。
 
+<img src="/images/reward.png" alt="reward">
+
+
 ## 常用指令
 
-/back 返回死亡地点
-/sethome 设置家 /home 回家
-/spawn 返回主城
-/t spawn 回到城镇
-/n spawn 回到国家
-/pay <玩家名> <金额> 给玩家转账
-/ca 打开全球市场
-将手持物品放入全球市场售卖 /ca sell 价格
+/back 返回死亡地点<br>
+/sethome 设置家<br> /home 回家
+/spawn 返回主城<br>
+/t spawn 回到城镇<br>
+/n spawn 回到国家<br>
+/pay <玩家名> <金额> 给玩家转账<br>
+/ca 打开全球市场<br>
+将手持物品放入全球市场售卖 /ca sell 价格<br>
 
 主城NPC 可领取新人装备（全套石工具+铁套）
 
@@ -56,8 +64,11 @@ SW币的产出渠道为：服务器收购基础的物料（目前为粗金，兑
 
 玩家可自行生成箱子商店，手持需要出售/收购的物品点击箱子后输入价格。
 
+转为收购输入命令:/qs buy
+
 不想摆摊可将物品放入全球市场出售，手持物品输入/ca sell 价格
 
+<img src="/images/shop.png" alt="shop">
 
 ## PVP
 目前为高版本1.9+PVP机制。<br>
@@ -68,15 +79,20 @@ SW币的产出渠道为：服务器收购基础的物料（目前为粗金，兑
 
 被玩家攻击或攻击玩家后会进入 PVP 管理状态，状态期间将会禁用所有指令。
 
+PVP死亡有几率触发死亡裁决，掉落头颅，掉落5格以内的背包物品[盔甲、武器除外]。<br>
+
 新建城镇/国家默认开启PVP，**不需要PVP需要您自行取消**：<br>
 创建城镇后使用/t toggle pvp off<br>
 创建国家后/n toggle pvp off<br>
 
+<img src="/images/skull.png" alt="skull">
+
+
 ## 新人保护
 
-新玩家进服 30 分钟 PVP免疫。
-新城镇 48小时内不会被宣战。
-建议新人自行关闭地图显示、城镇PVP。
+新玩家进服 30 分钟 PVP免疫。<br>
+新城镇 48小时内不会被宣战。<br>
+建议新人自行关闭地图显示、城镇PVP。<br>
 
 ## 更多附魔
 
@@ -97,16 +113,20 @@ SW币的产出渠道为：服务器收购基础的物料（目前为粗金，兑
 |传说|25级|
 |稀世|30级|
 
+<img src="/images/eco-gui.png" alt="eco-gui">
 
 ## 真实耕作
+每个植物受当前土地影响，手持种子右键土地查看是否可种植。<br>
+种植时需要在土地上放置堆肥桶并填充肥料。<br>
+需要使用锄头收获农作物，空手点击农作物不会掉落。<br>
+收获后，土方块会恢复原样，需要再次使用锄头右键点击土方块。<br>
 
-农作物的耕作引入了真实耕作插件。
-需要使用锄头收获农作物，空手点击农作物不会掉落。
-收获后，土方块会恢复原样，需要再次使用锄头右键点击土方块。
+<img src="/images/seed.png" alt="seed">
 
 ## 死亡效果
 
-死亡不会自动恢复饱食度。
+死亡不会自动恢复饱食度。<br>
+
 
 ## 酿酒
 
@@ -121,14 +141,22 @@ SW币的产出渠道为：服务器收购基础的物料（目前为粗金，兑
 使用命令后把空地图替换成有内容的地图<br>
 再右键放置到展示架上即可。<br>
 
+<img src="/images/img.png" alt="img">
+
+
 ## 婚姻
 
 在minecraft服务器中与另一位玩家(不论男女)结婚，来获得些额外的乐♂趣。<br>
-教程wiki：https://mineplugin.org/MarriageMaster
+教程wiki: https://mineplugin.org/MarriageMaster
 
 ## 食物保质期
 SW中大部分食物存在保质期，会显示在物品上<br>
 放入冰箱中会大幅度增加保质期<br>
+
+<img src="/images/food.png" alt="food"><br>
+
+<img src="/images/fi.png" alt="fi">
+
 
 ## 宠物
 
@@ -137,9 +165,16 @@ SW中大部分食物存在保质期，会显示在物品上<br>
 指令帮助 /pets help<br>
 宠物数值支持升级，打怪后会自动获取经验，并可根据技能树实现不同的作用，例如PVP等。<br>
 
+<img src="/images/pet.png" alt="pet"><br>
+
+<img src="/images/pet1.png" alt="pet1">
+
 ## 技能系统
 
 采用mcmmo插件，武器增益技能在PVP时无效。
+
+<img src="/images/mcmmo.png" alt="mcmmo">
+
 
 ## 限制内容
 

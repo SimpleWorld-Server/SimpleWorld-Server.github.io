@@ -3,10 +3,13 @@ title: 介绍
 createTime: 2024/10/18 20:31:47
 permalink: /notes/desc/
 ---
-# SimpleWorld Wiki
+# SimpleWorld
+<img src="/images/logo.jpg" alt="logo"><br>
+
 SimpleWorld是一款离线、互通的高版本Minecraft服务器<br>
 主题为文明模拟、王国模拟。
----
+
+
 ## 说明
 
 **2024-10-19版**

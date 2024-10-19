@@ -1,7 +1,7 @@
-<template><div><h1 id="simpleworld-wiki" tabindex="-1"><a class="header-anchor" href="#simpleworld-wiki"><span>SimpleWorld Wiki</span></a></h1>
-<hr>
-<h2 id="simpleworld是一款离线、互通的高版本minecraft服务器主题为文明模拟、王国模拟。" tabindex="-1"><a class="header-anchor" href="#simpleworld是一款离线、互通的高版本minecraft服务器主题为文明模拟、王国模拟。"><span>SimpleWorld是一款离线、互通的高版本Minecraft服务器<br>
-主题为文明模拟、王国模拟。</span></a></h2>
+<template><div><h1 id="simpleworld" tabindex="-1"><a class="header-anchor" href="#simpleworld"><span>SimpleWorld</span></a></h1>
+<p><img src="/images/logo.jpg" alt="logo"><br></p>
+<p>SimpleWorld是一款离线、互通的高版本Minecraft服务器<br>
+主题为文明模拟、王国模拟。</p>
 <h2 id="说明" tabindex="-1"><a class="header-anchor" href="#说明"><span>说明</span></a></h2>
 <p><strong>2024-10-19版</strong></p>
 <p>服务器内的图片、其他群文件、QQ频道内容规则与本文档有冲突，以本文档最新日期版本为基准，游玩服务器时以下内容我们默认您全部知晓。</p>

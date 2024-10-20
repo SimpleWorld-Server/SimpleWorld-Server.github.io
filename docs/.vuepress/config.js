@@ -9,6 +9,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: 'SimpleWorld',
   theme: plumeTheme({
+    head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
     // more...
     logo: 'https://pic.imgdb.cn/item/67125cb1d29ded1a8cea11ce.jpg',
     autoFrontmatter: false,
@@ -36,11 +37,19 @@ export default defineUserConfig({
       '/': [
         { text: 'Wiki简介', link: '/notes/desc/' },
         { text: '游玩规则', link: '/notes/rule/' },
-        { text: '城镇规则', link: '/notes/town/' },
         { text: '小屋资源点', link: '/notes/house/' },
+        { text: '更多合成', link: '/notes/craft/' },
+        { text: '城镇规则', link: '/notes/town/' },
         { text: '战争玩法', link: '/notes/war/' },
         { text: '结束语', link: '/notes/end/' },
       ]
+    },
+    configureWebpack: {
+      resolve: {
+        alias: {
+          '@img': 'public/images'
+        }
+      }
     }
     // notes: {
     //   link: '/notes/',

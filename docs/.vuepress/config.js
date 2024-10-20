@@ -38,6 +38,7 @@ export default defineUserConfig({
         { text: 'Wiki简介', link: '/notes/desc/' },
         { text: '游玩规则', link: '/notes/rule/' },
         { text: '四季系统', link: '/notes/season/' },
+        { text: '酿酒', link: '/notes/wine/' },
         { text: '小屋资源点', link: '/notes/house/' },
         { text: '更多合成', link: '/notes/craft/' },
         { text: '城镇规则', link: '/notes/town/' },

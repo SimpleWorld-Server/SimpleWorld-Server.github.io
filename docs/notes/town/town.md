@@ -15,7 +15,7 @@ permalink: /notes/town/
 
 ## 城镇文明
 
-SW引入了TownyAdvanced的TownyCultures作为文明插件。<br>
+SW引入了TownyAdvanced的**TownyCultures**作为文明插件。<br>
 
 各城镇镇长使用命令 /town set culture <文明名称> 加入或者创建一个名称。<br>
 

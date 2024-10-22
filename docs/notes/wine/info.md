@@ -20,6 +20,8 @@ Brewery上手需要一定的学习，请完整查看基础玩法后进行游玩�
 在SW中，玩家醉倒的酒精度是+100，可不要贪杯！<br>
 SW中的解酒物品[牛奶桶]，可缓解部分酒精！<br>
 
+<img src="/images/drunk.png" alt="drunk">
+
 ## 药酒
 
 药酒是SW中给玩家提供Buff效果的酒。[x/* 均为保密]
@@ -29,6 +31,10 @@ SW中的解酒物品[牛奶桶]，可缓解部分酒精！<br>
 | 大力药酒 | x  | 4分钟  | 2 年+橡木  | 20  | 力量药水I/* | 可用于合成[锋利I]附魔书 |
 | 好运药酒 | x  | 5分钟  | 1 年+任意  | 14  | 幸运药水/*  | 可用于合成[时运I]附魔书 |
 | 提神药酒 | x  | 2分钟  | 3 年+深色橡木 | 16  | 急迫效果I/* | 可用于合成[效率I]附魔书 |
+
+<img src="/images/effect_wine.png" alt="effect_wine">
+<img src="/images/luck_wine.png" alt="luck_wine">
+<img src="/images/power_wine.png" alt="power_wine">
 
 ## 特色酒品
 | 有无酒精 | 品名  |

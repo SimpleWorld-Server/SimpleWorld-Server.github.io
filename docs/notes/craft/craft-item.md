@@ -70,6 +70,21 @@ SW目前支持合成的基础附魔涵盖了玩家的游戏基本需求，合成
 <img src="/images/effect1.png" alt="effect1"><br>
 <div style="text-align: center;">效率I</div>
 
+## 更多中世纪武器
+
+为了让PVP可以有更加多的选择，我们推出了更多装备玩法，<br>
+
+按照关键词在“更多装备”原版工作台搜索即可了解配方，见下图。<br>
+
+<img src="/images/zb.png" alt="zb"><br>
+
+## 独家烹饪
+
+原版食物只能果腹，为了玩家可以体验烹饪的快乐，我们推出了烹饪玩法，<br>
+
+按照关键词“烹饪”在原版工作台搜索即可了解配方，见下图。<br>
+
+<img src="/images/pr.png" alt="pr"><br>
 
 ## 铸币
 

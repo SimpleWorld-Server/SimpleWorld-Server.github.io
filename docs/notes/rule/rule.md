@@ -42,7 +42,6 @@ SW币的产出渠道为：服务器收购基础的物料（目前为绿宝石，
 
 <img src="/images/reward.png" alt="reward">
 
-
 ## 常用指令
 
 | 命令               | 作用            |
@@ -133,6 +132,11 @@ SW中大部分食物存在保质期，会显示在物品上<br>
 再右键放置到展示架上即可。<br>
 
 <img src="/images/img.png" alt="img">
+
+## 音乐插件
+
+SW使用音乐插件[allMusic]，需要自行安装客户端Mod，下载对应的包 xxx-1.xx.AllMusic_client-3.0.4.jar，放入mod文件夹即可<br>
+[基岩版无音乐客户端] [Java端点此下载](https://github.com/Coloryr/AllMusic_Client/releases/tag/3.0.4)<br>
 
 ## 限制内容
 

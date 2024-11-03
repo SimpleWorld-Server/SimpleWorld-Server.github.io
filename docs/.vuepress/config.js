@@ -36,7 +36,7 @@ export default defineUserConfig({
     sidebar: {
       '/': [
         { text: 'Wiki简介', link: '/notes/desc/' },
-        { text: '账号绑定', link: '/notes/bind'},
+        { text: '账号绑定', link: '/notes/bind/'},
         { text: '游玩细则', link: '/notes/rule/' },
         { text: '四季', link: '/notes/season/' },
         { text: '酿酒', link: '/notes/wine/' },

@@ -2,6 +2,7 @@
 title: 账号绑定
 createTime: 2024/10/18 20:33:11
 permalink: /notes/bind/
+
 ---
 
 # 账号绑定

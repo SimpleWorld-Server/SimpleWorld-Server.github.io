@@ -2,8 +2,8 @@
 title: 账号绑定
 createTime: 2024/10/18 20:33:11
 permalink: /notes/bind/
-
 ---
+
 # 账号绑定
 
 为减少服务器玩家的账号被盗，增加玩家的信息真实性。<br>

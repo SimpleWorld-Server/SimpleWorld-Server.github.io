@@ -1,9 +1,6 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
-// import { plumeConfig } from './plume.config'
-import { defineNotesConfig } from 'vuepress-theme-plume'
-import navbar from './navbar'
 export default defineUserConfig({
   // 请不要忘记设置默认语言
   lang: 'zh-CN',
@@ -35,7 +32,7 @@ export default defineUserConfig({
     ],
     sidebar: {
       '/': [
-        { text: 'Wiki简介', link: '/notes/desc/' },
+        { text: 'Wiki说明', link: '/notes/desc/' },
         { text: '游玩细则', link: '/notes/rule/' },
         { text: '四季', link: '/notes/season/' },
         { text: '酿酒', link: '/notes/wine/' },
@@ -44,6 +41,7 @@ export default defineUserConfig({
         { text: '更多附魔', link: '/notes/enchants/' },
         { text: '城镇玩法', link: '/notes/town/' },
         { text: '战争玩法', link: '/notes/war/' },
+        { text: '管理规章', link: '/notes/manage'},
         { text: '结束语', link: '/notes/end/' },
       ]
     },
@@ -54,52 +52,6 @@ export default defineUserConfig({
         }
       }
     }
-    // notes: {
-    //   link: '/notes/',
-    //   dir: 'notes',
-    //   notes: [
-    //     {
-    //       dir: 'desc',
-    //       link: '/desc/',
-    //       sidebar: 'auto'
-    //     },
-    //     {
-    //       dir: 'house',
-    //       link: '/house/',
-    //       sidebar: 'auto'
-    //     },
-    //     {
-    //       dir: 'end',
-    //       link: '/notes/end/',
-    //       sidebar: 'auto'
-    //     },
-    //     {
-    //       dir: 'join',
-    //       link: '/notes/join/',
-    //       sidebar: 'auto'
-    //     },
-    //     {
-    //       dir: 'rule',
-    //       link: '/notes/rule/',
-    //       sidebar: 'auto'
-    //     },
-    //     {
-    //       dir: 'town',
-    //       link: '/notes/town/',
-    //       sidebar: 'auto'
-    //     },
-    //     {
-    //       dir: 'war',
-    //       link: '/notes/war/',
-    //       sidebar: 'auto'
-    //     },
-    //     {
-    //       dir: 'wiki',
-    //       link: '/notes/wiki/',
-    //       sidebar: 'auto'
-    //     },
-    //   ]
-    // }
   }),
   bundler: viteBundler(),
 })

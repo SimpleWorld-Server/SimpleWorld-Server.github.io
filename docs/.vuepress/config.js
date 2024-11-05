@@ -42,7 +42,7 @@ export default defineUserConfig({
         { text: '更多附魔', link: '/notes/enchants/' },
         { text: '城镇玩法', link: '/notes/town/' },
         { text: '战争玩法', link: '/notes/war/' },
-        { text: '管理规章', link: '/notes/manage'},
+        { text: '管理规章', link: '/notes/manage/'},
         { text: '结束语', link: '/notes/end/' },
       ]
     },

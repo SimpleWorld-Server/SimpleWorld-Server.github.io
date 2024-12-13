@@ -30,5 +30,19 @@ Java端发送：/绑定 test 绑定码
 
 <img src="/images/kick.png" alt="bd"><br>
 
-## 注意事项
-目前不支持换号、不支持一个QQ号码绑定多个MC服务器玩家。<br>
+## 解除绑定
+
+指令：/解绑<br>
+<img src="/images/unbind.png" alt="unbind"><br>
+
+## 邀请玩家
+
+每位玩家有存在专属的邀请码，若未使用，在每次登录时会收到提醒。<br>
+私聊机器人，发送指令:/邀请 邀请码<br>
+
+**需要邀请人、被邀请人同时在线时才可以获取奖励，每个邀请只能使用一次**
+
+<img src="/images/invite-tip.png" alt="invite"><br>
+
+<img src="/images/invite.png" alt="invite"><br>
+

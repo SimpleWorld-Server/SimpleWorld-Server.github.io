@@ -34,8 +34,6 @@ SW币的产出渠道为：服务器收购基础的物料（目前为绿宝石，
 在地图中隐藏 /dynmap hide<br>
 在地图中显示 /dynmap show
 
-<img src="/images/map.png" alt="map">
-
 ## 在线奖励
 
 每小时30SW币，每天上限500SW币。

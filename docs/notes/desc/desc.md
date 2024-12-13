@@ -5,7 +5,6 @@ permalink: /notes/desc/
 ---
 # SimpleWorld
 
-<img src="/images/logo.jpg" alt="logo"><br>
 SimpleWorld是一款离线、互通的高版本Minecraft服务器<br>
 主题为文明模拟、王国模拟。
 

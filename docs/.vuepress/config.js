@@ -39,6 +39,7 @@ export default defineUserConfig({
         { text: '四季', link: '/notes/season/' },
         { text: '酿酒', link: '/notes/wine/' },
         { text: '地图', link: '/notes/map/' },
+        { text: '称号系统', link: '/notes/tags/' },
         // { text: '小屋资源点', link: '/notes/house/' },
         { text: '更多合成', link: '/notes/craft/' },
         { text: '更多附魔', link: '/notes/enchants/' },

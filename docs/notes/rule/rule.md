@@ -89,20 +89,18 @@ SW币的产出渠道为：服务器收购基础的物料，具体收购物料查
 
 <img src="/images/seed.png" alt="seed">
 
-## 死亡效果
+[//]: # (## 食物保质期)
 
-死亡不会自动恢复饱食度。<br>
-玩家非PVP死亡时，会扣除少许SW币。<br>
-目前地狱开启死亡掉落物品，在玩家死亡处会生成15分钟的天使箱子。<br>
+[//]: # ()
+[//]: # (SW中大部分食物存在保质期，会显示在物品上<br>)
 
-## 食物保质期
+[//]: # (放入冰箱中会大幅度增加保质期<br>)
 
-SW中大部分食物存在保质期，会显示在物品上<br>
-放入冰箱中会大幅度增加保质期<br>
+[//]: # ()
+[//]: # (<img src="/images/food.png" alt="food"><br>)
 
-<img src="/images/food.png" alt="food"><br>
-
-<img src="/images/fi.png" alt="fi">
+[//]: # ()
+[//]: # (<img src="/images/fi.png" alt="fi">)
 
 ## 婚姻
 

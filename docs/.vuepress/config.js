@@ -36,6 +36,7 @@ export default defineUserConfig({
         { text: '账号绑定', link: '/notes/bind/'},
         { text: '游玩细则', link: '/notes/rule/' },
         { text: '系统商店', link: '/notes/shop/' },
+        { text: 'PVP及死亡效果', link: '/notes/pvp/' },
         { text: '四季', link: '/notes/season/' },
         { text: '酿酒', link: '/notes/wine/' },
         { text: '地图', link: '/notes/map/' },

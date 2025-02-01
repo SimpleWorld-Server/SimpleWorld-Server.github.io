@@ -3,6 +3,11 @@ title: 战争玩法
 createTime: 2024/10/18 20:35:24
 permalink: /notes/war/
 ---
+# 原文
+
+此份说明均来自插件【Siege war】，原文语言为英文，由服务器自主翻译，若服务器中呈现效果与本中文说明不一致或存在未解释的地方，<br>
+请先浏览[原文](https://github.com/TownyAdvanced/SiegeWar/wiki/Siege-War-User-Guide)再向管理员提供反馈。
+
 ## 战争玩法
 
  SimpleWorld（以下简称SW）使用Towny为主要的领地/城镇插件，其中使用SiegeWar战争事件插件作为战争玩法的实现，

@@ -17,10 +17,10 @@ config:
         - text: 加入我们
           link: /notes/join/
           theme: alt
-        -
-          theme: alt
-          text: Github
-          link: https://github.com/Mc-SimpleWorld
+#        -
+#          theme: alt
+#          text: Github
+#          link: https://github.com/Mc-SimpleWorld
 title: 首页
 createTime: 2024/10/14 21:47:01
 permalink: /
@@ -40,5 +40,5 @@ actions:
 
 features: []
 
-footer: QQ频道 SimpleWorld | QQ交流群 960431068 | Powered By VuePress
+footer: QQ频道 SimpleWorld | Powered By VuePress
 --- -->

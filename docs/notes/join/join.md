@@ -5,9 +5,10 @@ permalink: /notes/join/
 ---
 # 加入我们
 
-## QQ频道
+[//]: # (## QQ频道)
 
-SimpleWorld
+[//]: # ()
+[//]: # (SimpleWorld)
 
 ## kook频道
 

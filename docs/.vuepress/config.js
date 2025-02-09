@@ -33,7 +33,8 @@ export default defineUserConfig({
     sidebar: {
       '/': [
         { text: 'Wiki说明', link: '/notes/desc/' },
-        { text: '账号绑定', link: '/notes/bind/'},
+        // { text: '账号绑定', link: '/notes/bind/'},
+        { text: '聊天', link: '/notes/chat/'},
         { text: '游玩细则', link: '/notes/rule/' },
         { text: '系统商店', link: '/notes/shop/' },
         { text: 'PVP及死亡效果', link: '/notes/pvp/' },

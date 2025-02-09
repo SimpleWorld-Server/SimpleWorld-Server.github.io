@@ -34,9 +34,11 @@ actions:
     link: /wiki.html
     type: primary
 
-  - text: 加入我们
-    link: /join.html
-    type: secondary
+[//]: # (  - text: 加入我们)
+
+[//]: # (    link: /join.html)
+
+[//]: # (    type: secondary)
 
 features: []
 

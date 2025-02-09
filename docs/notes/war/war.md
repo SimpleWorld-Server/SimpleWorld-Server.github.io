@@ -8,9 +8,14 @@ permalink: /notes/war/
 此份说明均来自插件【Siege war】，原文语言为英文，由服务器自主翻译，若服务器中呈现效果与本中文说明不一致或存在未解释的地方，
 请先浏览[原文](https://github.com/TownyAdvanced/SiegeWar/wiki/Siege-War-User-Guide)再向管理员提供反馈。
 
+## 战争简述
+
+整个Wiki中出现的SW战争、战争、PVP关键字，为服务器中的玩法，不涉及现实世界任何事件。<br>
+不等同于服务器为国战、城战、PVP类型、无政府无规则服务器，服务器仍然定位为社会模拟。
+
 ## 战争玩法
 
- SimpleWorld（以下简称SW）使用Towny为主要的领地/城镇插件，其中使用SiegeWar战争事件插件作为战争玩法的实现，
+ SimpleWorld（以下简称SW）使用Towny为主要的领地/城镇插件，其中使用SiegeWar战争事件插件作为战争玩法的实现，<br>
  此篇内容主要介绍SiegeWar的使用教程，以下内容默认您已知悉。
 
 >（文中【战争、战斗、国家、城镇】等名词，仅为Minecraft服务器虚拟游戏事件代称）

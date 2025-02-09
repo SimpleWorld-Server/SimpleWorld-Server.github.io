@@ -33,6 +33,7 @@ export default defineUserConfig({
     sidebar: {
       '/': [
         { text: 'Wiki说明', link: '/notes/desc/' },
+        { text: '管理规章', link: '/notes/manage/'},
         // { text: '账号绑定', link: '/notes/bind/'},
         { text: '聊天', link: '/notes/chat/'},
         { text: '游玩细则', link: '/notes/rule/' },
@@ -47,7 +48,6 @@ export default defineUserConfig({
         { text: '更多附魔', link: '/notes/enchants/' },
         { text: '城镇玩法', link: '/notes/town/' },
         { text: '战争玩法', link: '/notes/war/' },
-        { text: '管理规章', link: '/notes/manage/'},
         { text: '结束语', link: '/notes/end/' },
       ]
     },

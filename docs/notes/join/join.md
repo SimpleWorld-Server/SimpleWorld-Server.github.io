@@ -12,5 +12,9 @@ permalink: /notes/join/
 
 ## kook频道
 
-建设中
+https://kook.vip/TmD7Fn
+
+## QQ群
+
+280209656
 

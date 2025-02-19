@@ -49,6 +49,7 @@ export default defineUserConfig({
         { text: '城镇玩法', link: '/notes/town/' },
         { text: '战争玩法', link: '/notes/war/' },
         { text: '结束语', link: '/notes/end/' },
+        { text: '服务器事件', link: '/notes/history/' },
       ]
     },
     configureWebpack: {
